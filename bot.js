@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 // Create the bot
 const bot = mineflayer.createBot({
-    host: 'swordsmp.sdlf.fun',    // Replace with your server IP
+    host: 'o.sdlf.fun',    // Replace with your server IP
     port: 25565,               // Default Minecraft port
     username: 'JamesTheGame',        // Bot's username
     auth: 'offline'            // Use 'offline' for cracked servers
