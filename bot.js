@@ -4,7 +4,7 @@ const mineflayer = require('mineflayer');
 const bot = mineflayer.createBot({
     host: '4534555344.aternos.me',    // Replace with your server IP
     port: 32277,               // Default Minecraft port
-    username: 'AFKBot',        // Bot's username
+    username: 'JamesTheGame',        // Bot's username
     auth: 'offline'            // Use 'offline' for cracked servers
 });
 
